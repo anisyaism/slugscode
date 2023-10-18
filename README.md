@@ -21,7 +21,7 @@
 
 ### :woman_technologist: About Me :
 - :woman_technologist: Hi, I'm Anisya, a mathematics graduate💯
-- 🖊️ Currently I work as Quality Assurance Engineer
+- 🖊️ Currently I work as Junior Quality Assurance Tester
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-anisyakharisman@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anisyakharisman@gmail.com)](mailto:anisyakharisman@gmail.com)
 - In my spare time, I also love to do :woman_technologist:🚶🏽🏃‍♀️🏊‍♀️🚴
 
