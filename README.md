@@ -1,6 +1,6 @@
-<h3 id="header" align="center">Hello Slugsogliolio!</h3>
+<h3 id="header" align="center">Hell-ooo!</h3>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/b4n53QFvxlA26woFsl/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhiNWV2aHJycWVzZTZhMmRtbnB5bDFncm5wcjZuNjc0aG1qcHphcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IyF9ol1Uv4zpJMpqYk/giphy.gif" width="500"/>
 </div>
 
 <div id="badges" align="center">
